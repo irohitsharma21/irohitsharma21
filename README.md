@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @irohitsharma21
-- 👀 I’m interested in graphic designing and web development
+- 👀 I’m interested in machine learning and gen ai.
 - 🌱 I’m currently learning c++ with DSA.
 - 💞️ I’m looking to collaborate on 
 - 📫 linked in profile url: https://www.linkedin.com/in/rohit-sharma-ab1272188/
