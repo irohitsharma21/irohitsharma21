@@ -1,10 +1,10 @@
 <!-- Top Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Rohit%20Sharma&fontSize=42&fontAlignY=35&desc=AI%20Engineer%20%7C%20Generative%20AI%20%26%20Voice%20Systems&descAlignY=55&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Rohit%20Sharma&fontSize=42&fontAlignY=35&desc=AI%20Engineer%20%7C%20Generative%20AI%20and%20Voice%20Systems&descAlignY=55&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Founding+AI+Engineer+%40+IndusLabs+AI;Building+Real-Time+Voice+AI+Agents;STT+%E2%86%92+LLM+%E2%86%92+TTS+Pipelines;Fine-Tuning+Speech+%26+Language+Models;30x+Throughput+%7C+Sub-300ms+Latency"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Founding+AI+Engineer+%40+IndusLabs+AI;Building+Real-Time+Voice+AI+Agents;STT+%E2%86%92+LLM+%E2%86%92+TTS+Pipelines;Fine-Tuning+Speech+%26+Language+Models;30x+Throughput+%7C+Sub-300ms+Latency"/>
 </p>
 
 <p align="center">
